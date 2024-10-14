@@ -35,14 +35,12 @@ $ npm install
 ## Running the app
 
 ```bash
-# development
+# authorization
 $ npm run start
 
-# watch mode
-$ npm run start:dev
+# sync operations from zoho crm to quickbooks
+$ npm run run-mapping
 
-# production mode
-$ npm run start:prod
 ```
 
 
