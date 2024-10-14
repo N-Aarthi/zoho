@@ -1,0 +1,7 @@
+To run authorization part:
+
+npm run start
+
+To do operations:
+
+npm run run-mapping
